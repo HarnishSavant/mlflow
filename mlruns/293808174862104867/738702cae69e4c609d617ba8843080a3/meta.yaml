@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/293808174862104867/738702cae69e4c609d617ba8843080a3/artifacts
+end_time: 1750136920093
+entry_point_name: ''
+experiment_id: '293808174862104867'
+lifecycle_stage: active
+run_id: 738702cae69e4c609d617ba8843080a3
+run_name: rumbling-conch-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750136918487
+status: 3
+tags: []
+user_id: DELL

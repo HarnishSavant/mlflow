@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/121613641118000516/dcc1525133c641f2ba291110c1c05ad6/artifacts
+end_time: 1750140649589
+entry_point_name: ''
+experiment_id: '121613641118000516'
+lifecycle_stage: active
+run_id: dcc1525133c641f2ba291110c1c05ad6
+run_name: wistful-shrimp-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750140639236
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/121613641118000516/1bb2bb588fab41a99882ef4f90928d6d/artifacts
+end_time: 1750137433950
+entry_point_name: ''
+experiment_id: '121613641118000516'
+lifecycle_stage: active
+run_id: 1bb2bb588fab41a99882ef4f90928d6d
+run_name: bemused-bug-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750137433405
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d98f3ef4ca941bca3e0582376345c71/artifacts
+end_time: 1750136144799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d98f3ef4ca941bca3e0582376345c71
+run_name: popular-worm-33
+run_uuid: 1d98f3ef4ca941bca3e0582376345c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750136144696
+status: 3
+tags: []
+user_id: DELL

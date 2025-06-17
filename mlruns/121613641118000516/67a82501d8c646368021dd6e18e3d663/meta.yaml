@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/121613641118000516/67a82501d8c646368021dd6e18e3d663/artifacts
+end_time: 1750137989063
+entry_point_name: ''
+experiment_id: '121613641118000516'
+lifecycle_stage: active
+run_id: 67a82501d8c646368021dd6e18e3d663
+run_name: vaunted-ape-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750137962078
+status: 3
+tags: []
+user_id: DELL

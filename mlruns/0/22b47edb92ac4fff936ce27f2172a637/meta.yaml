@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/22b47edb92ac4fff936ce27f2172a637/artifacts
+end_time: 1750135961643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22b47edb92ac4fff936ce27f2172a637
+run_name: debonair-cub-501
+run_uuid: 22b47edb92ac4fff936ce27f2172a637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750135961440
+status: 3
+tags: []
+user_id: DELL
