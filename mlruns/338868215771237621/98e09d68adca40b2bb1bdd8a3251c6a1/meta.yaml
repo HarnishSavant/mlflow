@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/98e09d68adca40b2bb1bdd8a3251c6a1/artifacts
+end_time: 1750144637808
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 98e09d68adca40b2bb1bdd8a3251c6a1
+run_name: bright-kit-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144637652
+status: 3
+tags: []
+user_id: DELL

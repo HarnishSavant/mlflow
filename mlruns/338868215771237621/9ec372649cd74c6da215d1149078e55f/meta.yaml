@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/9ec372649cd74c6da215d1149078e55f/artifacts
+end_time: 1750143696799
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 9ec372649cd74c6da215d1149078e55f
+run_name: nervous-dolphin-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143696639
+status: 3
+tags: []
+user_id: DELL

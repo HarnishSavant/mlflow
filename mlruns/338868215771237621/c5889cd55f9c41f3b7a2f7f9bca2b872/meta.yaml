@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/c5889cd55f9c41f3b7a2f7f9bca2b872/artifacts
+end_time: 1750144637629
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: c5889cd55f9c41f3b7a2f7f9bca2b872
+run_name: dazzling-mole-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144637434
+status: 3
+tags: []
+user_id: DELL

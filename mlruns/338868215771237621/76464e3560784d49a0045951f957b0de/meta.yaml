@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/76464e3560784d49a0045951f957b0de/artifacts
+end_time: 1750144637007
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 76464e3560784d49a0045951f957b0de
+run_name: nimble-roo-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144636464
+status: 3
+tags: []
+user_id: DELL

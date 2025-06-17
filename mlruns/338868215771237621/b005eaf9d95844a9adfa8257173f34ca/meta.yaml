@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/b005eaf9d95844a9adfa8257173f34ca/artifacts
+end_time: 1750143696322
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: b005eaf9d95844a9adfa8257173f34ca
+run_name: upbeat-kite-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143696209
+status: 3
+tags: []
+user_id: DELL

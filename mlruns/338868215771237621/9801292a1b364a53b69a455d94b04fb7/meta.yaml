@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/9801292a1b364a53b69a455d94b04fb7/artifacts
+end_time: 1750143697035
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 9801292a1b364a53b69a455d94b04fb7
+run_name: bedecked-cod-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143696833
+status: 3
+tags: []
+user_id: DELL

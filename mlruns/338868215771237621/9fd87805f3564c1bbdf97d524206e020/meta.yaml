@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/9fd87805f3564c1bbdf97d524206e020/artifacts
+end_time: 1750144638564
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 9fd87805f3564c1bbdf97d524206e020
+run_name: merciful-bug-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144638419
+status: 3
+tags: []
+user_id: DELL

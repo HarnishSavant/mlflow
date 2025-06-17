@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/e69ace9d45004b2986b9fe1e6b2b52d9/artifacts
+end_time: 1750144639104
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: e69ace9d45004b2986b9fe1e6b2b52d9
+run_name: incongruous-mule-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144638918
+status: 3
+tags: []
+user_id: DELL

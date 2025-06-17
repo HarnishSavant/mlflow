@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/ec797b016a5546a0b29c3e45539a4c57/artifacts
+end_time: 1750144638219
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: ec797b016a5546a0b29c3e45539a4c57
+run_name: dashing-sheep-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144638074
+status: 3
+tags: []
+user_id: DELL

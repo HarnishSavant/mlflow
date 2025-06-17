@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/adcebc4dcd1945319fb9573179ed0dbf/artifacts
+end_time: 1750143697204
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: adcebc4dcd1945319fb9573179ed0dbf
+run_name: adaptable-robin-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143697070
+status: 3
+tags: []
+user_id: DELL

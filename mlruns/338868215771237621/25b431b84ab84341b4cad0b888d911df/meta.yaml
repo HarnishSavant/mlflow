@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/25b431b84ab84341b4cad0b888d911df/artifacts
+end_time: 1750143695801
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 25b431b84ab84341b4cad0b888d911df
+run_name: rogue-yak-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143695683
+status: 3
+tags: []
+user_id: DELL

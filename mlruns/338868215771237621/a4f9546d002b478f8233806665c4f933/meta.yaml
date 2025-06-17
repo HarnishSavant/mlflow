@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/a4f9546d002b478f8233806665c4f933/artifacts
+end_time: 1750143696058
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: a4f9546d002b478f8233806665c4f933
+run_name: suave-sheep-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143695942
+status: 3
+tags: []
+user_id: DELL

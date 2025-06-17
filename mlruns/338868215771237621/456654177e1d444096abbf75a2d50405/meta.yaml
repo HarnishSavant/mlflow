@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/456654177e1d444096abbf75a2d50405/artifacts
+end_time: 1750143695927
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 456654177e1d444096abbf75a2d50405
+run_name: redolent-perch-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143695819
+status: 3
+tags: []
+user_id: DELL

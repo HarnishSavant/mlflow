@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/ee7e1da304364fa68e0829d7a706882a/artifacts
+end_time: 1750143697325
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: ee7e1da304364fa68e0829d7a706882a
+run_name: nosy-hog-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143697222
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/8a7f2098f69d4c0b9c48c69658a1c4e0/artifacts
+end_time: 1750144639352
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 8a7f2098f69d4c0b9c48c69658a1c4e0
+run_name: puzzled-kite-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144639178
+status: 3
+tags: []
+user_id: DELL

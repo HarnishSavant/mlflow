@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/8c8ea243e14f43c2a3c27f8b6b25fa82/artifacts
+end_time: 1750144637404
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 8c8ea243e14f43c2a3c27f8b6b25fa82
+run_name: bald-lamb-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144637252
+status: 3
+tags: []
+user_id: DELL

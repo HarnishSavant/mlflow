@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/73ed5882a7534120999c8ccd4b242e5f/artifacts
+end_time: 1750144638390
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 73ed5882a7534120999c8ccd4b242e5f
+run_name: gentle-shoat-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144638247
+status: 3
+tags: []
+user_id: DELL

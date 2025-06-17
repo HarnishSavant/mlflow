@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS/mlflow/mlruns/338868215771237621/58b12ee383cb4750a377b64defad4ddb/artifacts
+end_time: 1750143695666
+entry_point_name: ''
+experiment_id: '338868215771237621'
+lifecycle_stage: active
+run_id: 58b12ee383cb4750a377b64defad4ddb
+run_name: kindly-lynx-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143695544
+status: 3
+tags: []
+user_id: DELL
